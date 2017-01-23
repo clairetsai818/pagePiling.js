@@ -1,5 +1,5 @@
 # pagePiling.js
-
+[![CDNJS](https://img.shields.io/cdnjs/v/jquery.svg)](https://cdnjs.com/libraries/pagePiling.js)
 ![preview](https://raw.github.com/alvarotrigo/pagePiling.js/master/examples/imgs/pagePiling-plugin.png)
 ![compatibility](https://raw.github.com/alvarotrigo/pagePiling.js/master/examples/imgs/compatible.gif)
 Pile your sections one over another and access them scrolling or by URL!
